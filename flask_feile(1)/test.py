@@ -1,8 +1,3 @@
-# @Time    : 2020/1/3 17:10
-# @Author  : xul
-# @vx      : xl547751069 
-
-
 import csv, os
 from models import Feile
 from app import db
